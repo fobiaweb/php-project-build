@@ -1,7 +1,7 @@
 {
-    "name": "fobiaweb/php-project-buld",
+    "name": "fobiaweb/php-project-build",
     "type": "library",
-    "homepage": "https://github.com/fobiaweb/php-project-buld",
+    "homepage": "https://github.com/fobiaweb/php-project-build",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0"
